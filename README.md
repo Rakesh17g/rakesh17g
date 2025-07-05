@@ -66,4 +66,4 @@ Let’s build something amazing!
 
 📩 **Email**: [rakesh1719@gmail.com](mailto:rakesh1719@gmail.com)  
 🔗 **LinkedIn**: [Rakesh G](https://www.linkedin.com/in/rakesh-g-261666350/)  
-🌐 **Portfolio**: Coming Soon 🚀
+🌐 **Portfolio**: [Rakesh's portfolio](https://v0-rakesh-dev-portfolio-website-roan.vercel.app/)
